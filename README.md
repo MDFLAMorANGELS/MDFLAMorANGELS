@@ -1,4 +1,4 @@
-![Header](./img/github-header-image.png)
+![Header](./img/banner.jpg)
 
 En pleine reconversion professionnelle dans le monde du développement, je suis en formation chez The Hacking Project. Cette formation me permet d'apprendre en peer learning et de pouvoir apprendre en créant des projets en équipe. Grâce à ma volonté, ma motivation et le soutien de mon équipe, j'arrive à surmonter chaque projet avec brio et c'est un réel plaisir de continuer à apprendre.
 
