@@ -7,15 +7,6 @@ En pleine reconversion professionnelle dans le monde du développement, je suis 
 - 🔭 je suis en pleine apprentissage de javascript , react
 
 
-![Header](./img/banner.jpg)
-
-En pleine reconversion professionnelle dans le monde du développement, je suis en formation chez The Hacking Project. Cette formation me permet d'apprendre en peer learning et de pouvoir apprendre en créant des projets en équipe. Grâce à ma volonté, ma motivation et le soutien de mon équipe, j'arrive à surmonter chaque projet avec brio et c'est un réel plaisir de continuer à apprendre.
-
-
-- 🔭 je travaille actuellement sur cette page 
-- 🔭 je suis en pleine apprentissage de javascript , react
-
-
 ## Mes Projets
 ### Projet Développeur THP
 Création d'un site permettant de soumettre des demandes de 
