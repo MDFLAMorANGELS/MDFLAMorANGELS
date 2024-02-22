@@ -19,13 +19,13 @@ Passionné par le monde de la tech, je suis constamment à l'affût des dernièr
   
 <div id="badges" align=center >
 <h2 style="margin: 25px auto; font-size: 32px; color: #a80fa3; font-family: Arial, sans-serif; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); text-decoration: underline ; text-underline-offset: 8px;">Contact</h2>
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/valentin-pieters/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://github.com/MDFLAMorANGELS">
     <img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="mailto:valentinmd78@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
