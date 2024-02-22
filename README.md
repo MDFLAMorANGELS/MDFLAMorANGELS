@@ -1,35 +1,53 @@
 ![Header](./img/banner.jpg)
 
-En pleine reconversion professionnelle dans le monde du développement, je suis en formation chez The Hacking Project. Cette formation me permet d'apprendre en peer learning et de pouvoir apprendre en créant des projets en équipe. Grâce à ma volonté, ma motivation et le soutien de mon équipe, j'arrive à surmonter chaque projet avec brio et c'est un réel plaisir de continuer à apprendre.
+<div align="center">
+    <h1 style="margin: 20px auto; font-size: 36px; color: #a80fa3; font-family: Arial, sans-serif; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); text-decoration: underline ; text-underline-offset: 8px;">MDFLAMorANGELS Profil's</h1>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="margin: 20px auto;" width="600" height="300"/>
+</div>
 
+ 
 
-- 🔭 je travaille actuellement sur cette page 
-- 🔭 je suis en pleine apprentissage de javascript , react
+Je viens de terminer ma reconversion professionnelle en tant que développeur web, ayant suivi une formation chez Openclassroom et une autre chez The Hacking Project.
 
+Je me spécialise davantage dans le frontend, bien que je sois tout aussi à l'aise avec le backend. Ma polyvalence me permet d'être mobile dans mes compétences.
 
-## Mes Projets
-### Projet Développeur THP
-Création d'un site permettant de soumettre des demandes de 
-devis pour l'installation de bornes de recharge pour véhicules 
-électriques, frontend en React et backend en Rails
+Actuellement à la recherche d'un poste en tant que développeur web, je consacre également une partie de mon temps libre à la réalisation d'applications personnelles.
 
-[Projet Développeur Frontend](https://github.com/info-romu/info-front)
+Passionné par le monde de la tech, je suis constamment à l'affût des dernières innovations et tendances dans le domaine du développement web.
+  
 
-[Projet Développeur Backend](https://github.com/info-romu/infoback)
+  
+<div id="badges" align=center >
+<h2 style="margin: 25px auto; font-size: 32px; color: #a80fa3; font-family: Arial, sans-serif; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); text-decoration: underline ; text-underline-offset: 8px;">Contact</h2>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Gmail-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-### Projet Fullstack THP
-Conception d’un site de création d’événements autour des jeux 
-de société en application Rails full stack
+<hr/>
 
-[Projet Fullstack](https://github.com/LesAventuriersDuPlateau/LesAventuriersDuPlateau)
+## Languages and Tools:
 
+### Frontend
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MDFLAMorANGELS&label=Profile%20views&color=blueviolet&style=plastic" alt="MdflamorAngels" /> </p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,sass,react,vite&theme=light)](https://skillicons.dev)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+### Backend
+
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,ruby,rails,postgres,heroku&theme=light)](https://skillicons.dev)
+
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,androidstudio,postman&theme=light)](https://skillicons.dev)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MDFLAMorANGELS&show_icons=true&locale=en&layout=compact" alt="MDFLAMorANGELS" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MDFLAMorANGELS&show_icons=true&locale=en" alt="MDFLAMorANGELS" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MDFLAMorANGELS&label=Profile%20views&color=blueviolet&style=plastic" alt="MdflamorAngels" /> </p>
